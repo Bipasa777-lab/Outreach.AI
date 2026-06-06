@@ -95,7 +95,8 @@ Setup & Running Locally
 1. Requirements Setup
 
 Ensure Python 3.9+ is installed, then install project dependencies:
-source .venv/bin/activate 
+ 
+ source .venv/bin/activate 
 
 pip install -r requirements.txt
 
